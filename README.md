@@ -1,1 +1,1 @@
-Projet d'apprentissage profond. Prédiction du départ ou non d'un client d'une banque.
+Deep learning project. Predicting whether a customer will leave a bank or not.
